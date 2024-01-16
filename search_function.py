@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 class RunWeb:
   def __init__(self):
     self.headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36'}
-    self.url = 'https://secure.runescape.com/m=itemdb_rs/top100?list='
+    self.url = 'https://secure.runescape.com/m=itemdb_rs/top100?list=1'
 
   def key_words_search_words(self, user_message):
     words = user_message.split()[1:]
