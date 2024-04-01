@@ -6,8 +6,10 @@ from dotenv import load_dotenv
 #Use the python-dotenv pakcage to get variables stored in .env file of your project
 load_dotenv()
 
+intents = discord.Intents().all()
+intents.members = True
 #instantiates discord client
-client = discord.Client()
+client = discord.Client(intents=intents)
 
 intro_message = 'Hello! Young lady'
 no_result_message = 'No results'
