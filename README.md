@@ -1,7 +1,7 @@
 This is a Discord bot created for the purpose of web scraping search results from the movie database website Letterboxd. To run this you will need to have a discord account and a discord server setup to deploy the bot.
 
-**Note: You will need to have a discord account, discord server you want to place the bot in, and python 3 installed on your computer
-**
+**Note: You will need to have a discord account, discord server you want to place the bot in, and python 3 installed on your computer**
+
 ------------------------------------------------------------------------------------------------------------------------------------
 You will need to complete 3 steps before downloading the repository to run a bot (Not including creating a discord account and discord server):
 
@@ -11,8 +11,8 @@ You will need to complete 3 steps before downloading the repository to run a bot
 
 Copy the URL shown in "SCOPES" and paste it into your browser. You will be brought to a webpage where you can choose which server to add your bot to. After selecting the server and hitting continue, congrats you have a bot on your server!
 
-**Note: You will need to install the Discord package. Through the command line type "pip3 install discord.py" 
-**
+**Note: You will need to install the Discord package. Through the command line type "pip3 install discord.py"**
+
 ------------------------------------------------------------------------------------------------------------------------------------
 Now you're ready to download this repository! Type into the command line "git clone [url of repository]" into the location you want your repository to be located in.
 
