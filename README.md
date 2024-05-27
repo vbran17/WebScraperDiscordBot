@@ -2,7 +2,7 @@ This is a Discord bot created for the purpose of web scraping search results fro
 
 Note: You will need to have a discord account, discord server you want to place the bot in, and python 3 installed on your computer
 =
-================================================================================================================================================================================================================================
+====================================================================================================================================
 You will need to complete 3 steps before downloading the repository to run a bot (Not including creating a discord account and discord server):
 
 1. Create an application: Go to the Discord developer portal (https://discord.com/developers/applications) and sign in with your Discord account. Click the "New Application" button at the top right corner.
@@ -13,7 +13,7 @@ Copy the URL shown in "SCOPES" and paste it into your browser. You will be broug
 
 Note: You will need to install the Discord package. Through the command line type "pip3 install discord.py" 
 =
-================================================================================================================================================================================================================================
+====================================================================================================================================
 Now you're ready to download this repository! Type into the command line "git clone [url of repository]" into the location you want your repository to be located in.
 
 Once your repository is downloaded use any IDE or directly open the .env file. To bring your bot online you will need to copy your bot token from the Discord developer's application page and paste that into the .env file
